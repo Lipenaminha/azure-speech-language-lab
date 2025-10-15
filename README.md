@@ -56,7 +56,19 @@ Análise de **sentimentos e entidades** em textos usando o Azure Language Studio
 
 ## 📸 Evidências
 ![Azure Speech](https://img.shields.io/badge/Azure_Speech_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+Olá, tudo bem? Eu sou o Felipe, estou. Reproduzindo. Conversão de fala em texto em tempo real para teste. 
+
+![Teste Speech Studio](<Captura de tela 2025-10-15 153917.png>)
+
 ![Azure Language](https://img.shields.io/badge/Azure_Language_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Teste Language Studio](Images/Captura%20de%20tela%202025-10-15%20161914.png)
+
+![Outro teste Language Studio](Images/Captura%20de%20tela%202025-10-15%20161928.png)
+
+
+
 
 ## 📚 Referências
 - [Documentação Speech Studio](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
